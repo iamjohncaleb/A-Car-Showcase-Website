@@ -72,7 +72,6 @@
 
 
 
-
 export const manufacturers = [
   "Acura",
   "Alfa Romeo",
